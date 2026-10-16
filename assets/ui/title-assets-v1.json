@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "text": "超长蛋挞蛇",
+  "characterCount": 5,
+  "master": "assets/ui/title-chaochang-dantashe-v1.png",
+  "width": 2107,
+  "height": 518,
+  "alpha": true,
+  "source": "assets/ui/source/title-chaochang-dantashe-generated-v1.png",
+  "sourceCanvas": [
+    2129,
+    739
+  ],
+  "sourceCrop": {
+    "left": 40,
+    "top": 123,
+    "width": 2051,
+    "height": 462
+  },
+  "transparentPadding": 28,
+  "variants": [
+    {
+      "path": "assets/ui/title-chaochang-dantashe-2000-v1.png",
+      "width": 2000,
+      "height": 492,
+      "alpha": true,
+      "nonzeroEdgePixels": 0
+    },
+    {
+      "path": "assets/ui/title-chaochang-dantashe-1600-v1.png",
+      "width": 1600,
+      "height": 393,
+      "alpha": true,
+      "nonzeroEdgePixels": 0
+    },
+    {
+      "path": "assets/ui/title-chaochang-dantashe-1200-v1.png",
+      "width": 1200,
+      "height": 295,
+      "alpha": true,
+      "nonzeroEdgePixels": 0
+    },
+    {
+      "path": "assets/ui/title-chaochang-dantashe-800-v1.png",
+      "width": 800,
+      "height": 197,
+      "alpha": true,
+      "nonzeroEdgePixels": 0
+    },
+    {
+      "path": "assets/ui/title-chaochang-dantashe-480-v1.png",
+      "width": 480,
+      "height": 118,
+      "alpha": true,
+      "nonzeroEdgePixels": 0
+    }
+  ],
+  "paletteReference": "assets/snake/head/tart-snake-head-left-closed-v1.png",
+  "design": {
+    "DESIGN_VARIANCE": 5,
+    "MOTION_INTENSITY": 1,
+    "VISUAL_DENSITY": 2,
+    "style": "rounded pastry lettering; custard fill, toasted rim and sparse baked spots"
+  },
+  "placementExample": {
+    "canvas": [
+      1920,
+      1056
+    ],
+    "title": {
+      "x": 390,
+      "y": 124,
+      "width": 1140,
+      "height": 280.265780730897
+    },
+    "bodyOffset": [
+      288,
+      288
+    ],
+    "note": "Offline art mockup; app layout not changed"
+  },
+  "accessibility": {
+    "alt": "超长蛋挞蛇",
+    "headingLevel": 1
+  },
+  "fontDependency": "none; raster wordmark"
+}

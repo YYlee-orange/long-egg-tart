@@ -1,0 +1,11 @@
+{
+  "id": "bakery-walls",
+  "columns": 20,
+  "rows": 11,
+  "cellSize": 48,
+  "stepMs": 165,
+  "roundSeconds": 60,
+  "walls": [[0,3],[0,4],[0,5],[19,3],[19,4],[19,5],[11,3],[12,3],[13,3],[14,3],[11,4],[11,8],[12,8],[13,8],[14,8]],
+  "spawn": { "x": 8, "y": 5, "direction": "right", "length": 8 },
+  "firstFood": { "x": 13, "y": 5 }
+}

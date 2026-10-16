@@ -1,0 +1,10 @@
+node_modules/
+.runtime/
+.preview-tools/
+test-results/
+dist/
+previews/
+*.zip
+*.log
+.env
+.env.*

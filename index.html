@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f6eee3">
+  <meta name="description" content="在柔和的野餐布上，做一条越来越长的蛋挞。">
+  <title>超长蛋挞</title>
+  <link rel="icon" href="./assets/food/custard-carton-48-v6.png">
+  <link rel="preload" as="image" href="./assets/backgrounds/picnic-cloth-flat-v1.png">
+  <link rel="preload" as="image" href="./assets/ui/title-long-egg-tart.png">
+  <link rel="preload" as="image" href="./assets/ui/dialogs/panel-frame-v1.png">
+  <link rel="preload" as="image" href="./assets/ui/dialogs/button-primary-default-v1.png">
+  <link rel="preload" as="image" href="./assets/ui/dialogs/button-secondary-default-v1.png">
+  <link rel="stylesheet" href="./src/style.css">
+</head>
+<body>
+  <main id="stage" aria-label="超长蛋挞小游戏" tabindex="-1" data-screen="start" aria-busy="true">
+    <canvas id="game" width="1536" height="864" aria-label="蛋挞蛇游戏画面"></canvas>
+    <section id="start-screen" class="screen start-screen" aria-label="开始界面">
+      <h1><img src="./assets/ui/title-long-egg-tart.png" alt="超长蛋挞蛇" width="2129" height="739" draggable="false"></h1>
+      <button id="start" class="start-button primary" type="button" aria-label="开始游戏" disabled>开始游戏</button>
+    </section>
+    <section id="game-screen" class="screen game-screen" aria-label="游戏界面" hidden>
+      <div class="game-hud">
+        <output id="time-left" class="timer" aria-label="剩余时间（秒）" aria-live="off">60</output>
+        <button id="pause" class="round-button quiet pause-button" type="button" aria-label="暂停游戏">
+          <img src="./assets/ui/pause-fill.svg" alt="" width="28" height="28">
+        </button>
+      </div>
+    </section>
+    <div id="load-error" class="load-error" role="alert" hidden>
+      <p>素材载入失败</p>
+      <button id="reload" type="button">重试</button>
+    </div>
+    <div id="curtain" class="curtain" aria-hidden="true"></div>
+    <p id="announcer" class="sr-only" role="status" aria-live="polite"></p>
+  </main>
+  <div id="overlay" class="overlay" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+    <div class="modal-panel tart-dialog" data-state="pause">
+      <div class="dialog-skin" aria-hidden="true"></div>
+      <img class="dialog-mascot" src="./assets/ui/dialogs/mascot-480-v1.png" alt="" width="480" height="174" draggable="false">
+      <div class="dialog-content">
+        <div class="dialog-title-row">
+          <span class="dialog-pause-mark" aria-hidden="true"><img src="./assets/ui/dialogs/icon-pause-v1.svg" alt="" width="21" height="21"></span>
+          <h2 id="modal-title">已暂停</h2>
+        </div>
+        <div id="length-wrap" class="length-medallion" hidden>
+          <output id="final-length" class="final-length" aria-label="最终长度" hidden>0</output>
+        </div>
+        <div class="overlay-actions">
+          <button id="home" class="dialog-action is-secondary" type="button">
+            <img src="./assets/ui/dialogs/icon-home-v1.svg" alt="" width="20" height="20"><span>回到开始界面</span>
+          </button>
+          <button id="continue" class="dialog-action is-primary" type="button">
+            <img id="continue-icon" src="./assets/ui/dialogs/icon-play-v1.svg" alt="" width="20" height="20"><span id="continue-label">继续游戏</span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>

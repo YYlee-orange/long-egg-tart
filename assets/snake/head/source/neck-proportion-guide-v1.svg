@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+<rect width="1254" height="1254" fill="#F8F5EF"/>
+<rect x="34" y="218" width="1016" height="832" rx="20" fill="#E0DCD5"/>
+<rect x="1030" y="301.2" width="211" height="665.6" fill="#E4B862" stroke="#765238" stroke-width="5"/>
+<path d="M34 218H1241 M34 1050H1241" stroke="#AAA299" stroke-width="3" stroke-dasharray="10 10"/>
+<text x="100" y="190" font-family="Segoe UI,sans-serif" font-size="36" fill="#765238">HEAD HEIGHT = 832</text>
+<text x="760" y="1160" font-family="Segoe UI,sans-serif" font-size="30" fill="#765238">NECK HEIGHT = 665.6 (80%)</text>
+</svg>

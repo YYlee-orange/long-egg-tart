@@ -1,0 +1,69 @@
+{
+  "viewBox": [
+    0,
+    0,
+    192,
+    192
+  ],
+  "structure": {
+    "width": 64,
+    "rimWidth": 52,
+    "fillWidth": 42,
+    "turnRadius": 56,
+    "minTurnRadius": 48
+  },
+  "palette": {
+    "crust": "#C38C55",
+    "rim": "#DDB575",
+    "custard": "#F3D994",
+    "bakeLight": "#D5AE68",
+    "bakeMedium": "#CE9C57",
+    "bakeDark": "#BE824A",
+    "pastryLine": "#A97545"
+  },
+  "fixtures": [
+    {
+      "name": "straight",
+      "rotation": 0,
+      "path": "M -60 96 L 252 96",
+      "length": 312
+    },
+    {
+      "name": "corner-ne",
+      "rotation": 0,
+      "path": "M 96 -60 L 96 40 A 56 56 0 0 0 152 96 L 252 96",
+      "length": 287.9645943005142
+    },
+    {
+      "name": "corner-se",
+      "rotation": 90,
+      "path": "M 96 -60 L 96 40 A 56 56 0 0 0 152 96 L 252 96",
+      "length": 287.9645943005142
+    },
+    {
+      "name": "corner-sw",
+      "rotation": 180,
+      "path": "M 96 -60 L 96 40 A 56 56 0 0 0 152 96 L 252 96",
+      "length": 287.9645943005142
+    },
+    {
+      "name": "corner-nw",
+      "rotation": 270,
+      "path": "M 96 -60 L 96 40 A 56 56 0 0 0 152 96 L 252 96",
+      "length": 287.9645943005142
+    },
+    {
+      "name": "cap-right",
+      "rotation": 0,
+      "path": "M -60 96 L 96 96",
+      "length": 156
+    },
+    {
+      "name": "cap-left",
+      "rotation": 0,
+      "path": "M 96 96 L 252 96",
+      "length": 156
+    }
+  ],
+  "warning": "Fixtures only. Draw the complete body once; do not tile independently filled pieces."
+}

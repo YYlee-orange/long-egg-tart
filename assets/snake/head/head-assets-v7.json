@@ -1,0 +1,102 @@
+{
+  "version": 7,
+  "source": "source/tart-snake-head-left-v7.svg",
+  "units": "SVG source units; master PNG is four pixels per unit",
+  "structure": {
+    "width": 128,
+    "headHeight": 160,
+    "neckHeight": 128,
+    "neckRatio": 0.8,
+    "outerCrustPerSide": 12,
+    "innerRimPerSide": 10,
+    "custardWidth": 84,
+    "neckCutX": 262,
+    "neckCenterY": 108,
+    "defaultFacing": "left",
+    "palette": {
+      "crust": "#C38C55",
+      "rim": "#DDB575",
+      "custard": "#F3D994",
+      "bakeLight": "#D5AE68",
+      "bakeMedium": "#CE9C57",
+      "bakeDark": "#BE824A",
+      "pastryLine": "#A97545",
+      "face": "#765238"
+    }
+  },
+  "frames": {
+    "left": {
+      "path": "assets/snake/head/tart-snake-head-left-v7.png",
+      "width": 1120,
+      "height": 880,
+      "alpha": true,
+      "defaultFacing": "left",
+      "neckAnchorPx": [
+        1048,
+        432
+      ],
+      "rotationPivotPx": [
+        740,
+        432
+      ],
+      "neckWidthPx": 512,
+      "bodyWidthToImageScale": "runtimeBodyWidth / 512",
+      "neckOverlapRecommendedPx": 8
+    },
+    "up": {
+      "path": "assets/snake/head/tart-snake-head-up-v7.png",
+      "width": 880,
+      "height": 1120,
+      "alpha": true,
+      "defaultFacing": "up",
+      "neckAnchorPx": [
+        448,
+        1048
+      ],
+      "rotationPivotPx": [
+        448,
+        740
+      ],
+      "neckWidthPx": 512,
+      "bodyWidthToImageScale": "runtimeBodyWidth / 512",
+      "neckOverlapRecommendedPx": 8
+    },
+    "right": {
+      "path": "assets/snake/head/tart-snake-head-right-v7.png",
+      "width": 1120,
+      "height": 880,
+      "alpha": true,
+      "defaultFacing": "right",
+      "neckAnchorPx": [
+        72,
+        448
+      ],
+      "rotationPivotPx": [
+        380,
+        448
+      ],
+      "neckWidthPx": 512,
+      "bodyWidthToImageScale": "runtimeBodyWidth / 512",
+      "neckOverlapRecommendedPx": 8
+    },
+    "down": {
+      "path": "assets/snake/head/tart-snake-head-down-v7.png",
+      "width": 880,
+      "height": 1120,
+      "alpha": true,
+      "defaultFacing": "down",
+      "neckAnchorPx": [
+        432,
+        72
+      ],
+      "rotationPivotPx": [
+        432,
+        380
+      ],
+      "neckWidthPx": 512,
+      "bodyWidthToImageScale": "runtimeBodyWidth / 512",
+      "neckOverlapRecommendedPx": 8
+    }
+  },
+  "note": "Render the body behind the open neck, remove the placeholder head cap, keep gameplay collision unchanged. Rotate around the configured pivot and use the matching neck anchor. Current art only; no runtime code changed."
+}

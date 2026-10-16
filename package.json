@@ -1,0 +1,17 @@
+{
+  "name": "long-egg-tart",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A local 2D egg-tart snake prototype.",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node scripts/check.mjs",
+    "vendor-icons": "node scripts/vendor-icons.mjs"
+  },
+  "devDependencies": {
+    "@phosphor-icons/core": "^2.1.1"
+  }
+}

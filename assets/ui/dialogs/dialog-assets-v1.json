@@ -1,0 +1,210 @@
+{
+  "version": 1,
+  "baseUnits": "CSS pixels at 1x; raster skins exported at 2x",
+  "scope": "art assets, standalone UI reference and programmer handoff; no live game logic changed",
+  "palette": {
+    "surface": "#FFF8ED",
+    "custard": "#F3D994",
+    "rim": "#DDB575",
+    "crust": "#A97545",
+    "ink": "#765238",
+    "primary": "#9C5B50",
+    "primaryHover": "#8F4E44",
+    "primaryText": "#FFF8ED",
+    "secondary": "#F2E3CB",
+    "secondaryText": "#765238",
+    "backdrop": "rgba(64,42,32,0.24)"
+  },
+  "panel": {
+    "path": "assets/ui/dialogs/panel-frame-v1.png",
+    "source": "assets/ui/dialogs/source/panel-frame-v1.svg",
+    "width": 1280,
+    "height": 960,
+    "exportScale": 2,
+    "nineSlice": {
+      "top": 128,
+      "right": 128,
+      "bottom": 128,
+      "left": 128
+    },
+    "renderBorderCss": 64,
+    "minCssSize": [
+      240,
+      220
+    ],
+    "opaqueCenter": true
+  },
+  "mascot": {
+    "path": "assets/ui/dialogs/mascot-v1.png",
+    "width": 960,
+    "height": 347,
+    "displayWidth": 216,
+    "decorative": true,
+    "source": "assets/ui/dialogs/source/mascot-generated-v1.png"
+  },
+  "buttons": {
+    "assets": [
+      {
+        "path": "assets/ui/dialogs/button-primary-default-v1.png",
+        "width": 480,
+        "height": 112,
+        "kind": "primary",
+        "state": "default"
+      },
+      {
+        "path": "assets/ui/dialogs/button-primary-hover-v1.png",
+        "width": 480,
+        "height": 112,
+        "kind": "primary",
+        "state": "hover"
+      },
+      {
+        "path": "assets/ui/dialogs/button-primary-pressed-v1.png",
+        "width": 480,
+        "height": 112,
+        "kind": "primary",
+        "state": "pressed"
+      },
+      {
+        "path": "assets/ui/dialogs/button-primary-disabled-v1.png",
+        "width": 480,
+        "height": 112,
+        "kind": "primary",
+        "state": "disabled"
+      },
+      {
+        "path": "assets/ui/dialogs/button-secondary-default-v1.png",
+        "width": 480,
+        "height": 112,
+        "kind": "secondary",
+        "state": "default"
+      },
+      {
+        "path": "assets/ui/dialogs/button-secondary-hover-v1.png",
+        "width": 480,
+        "height": 112,
+        "kind": "secondary",
+        "state": "hover"
+      },
+      {
+        "path": "assets/ui/dialogs/button-secondary-pressed-v1.png",
+        "width": 480,
+        "height": 112,
+        "kind": "secondary",
+        "state": "pressed"
+      },
+      {
+        "path": "assets/ui/dialogs/button-secondary-disabled-v1.png",
+        "width": 480,
+        "height": 112,
+        "kind": "secondary",
+        "state": "disabled"
+      }
+    ],
+    "sourceSize": [
+      480,
+      112
+    ],
+    "nineSlice": {
+      "top": 48,
+      "right": 64,
+      "bottom": 48,
+      "left": 64
+    },
+    "cssBorderWidths": [
+      24,
+      32,
+      24,
+      32
+    ],
+    "referenceHeight": 56,
+    "states": {
+      "primary": {
+        "default": {
+          "fill": "#9C5B50",
+          "edge": "#805135"
+        },
+        "hover": {
+          "fill": "#8F4E44",
+          "edge": "#765238"
+        },
+        "pressed": {
+          "fill": "#8F4E44",
+          "edge": "#765238"
+        },
+        "disabled": {
+          "fill": "#C6ABA0",
+          "edge": "#AD9385"
+        }
+      },
+      "secondary": {
+        "default": {
+          "fill": "#F2E3CB",
+          "edge": "#BE955E"
+        },
+        "hover": {
+          "fill": "#EBD7B6",
+          "edge": "#A97545"
+        },
+        "pressed": {
+          "fill": "#E6CFA9",
+          "edge": "#A97545"
+        },
+        "disabled": {
+          "fill": "#EAE2D6",
+          "edge": "#C9BAA6"
+        }
+      }
+    },
+    "textIsRuntime": true
+  },
+  "copy": {
+    "pause": {
+      "title": "已暂停",
+      "subtitle": "歇一会儿，继续变长。",
+      "secondary": "回到开始界面",
+      "primary": "继续游戏"
+    },
+    "result": {
+      "title": "本轮结束",
+      "metricLabel": "最终长度",
+      "exampleScore": 13,
+      "secondary": "回到开始界面",
+      "primary": "再来一次"
+    }
+  },
+  "typography": {
+    "family": "Microsoft YaHei UI, Microsoft YaHei, PingFang SC, system-ui, sans-serif",
+    "title": 30,
+    "subtitle": 16,
+    "metricLabel": 16,
+    "score": 72,
+    "button": 16
+  },
+  "layout": {
+    "maxPanelWidth": 560,
+    "outerGutter": 16,
+    "mascotWidth": 216,
+    "mascotTop": 0,
+    "skinTop": 38,
+    "panelPadding": [
+      118,
+      32,
+      28
+    ],
+    "actionGap": 16,
+    "buttonHeight": 56,
+    "compactBelowStageHeight": 440,
+    "narrowStackBelowWidth": 360,
+    "compactBelowViewportHeight": 520
+  },
+  "reference": "previews/dialogs/dialog-reference-v1.html",
+  "handoff": "assets/ui/dialogs/PROGRAMMER-HANDOFF-v1.md",
+  "icons": {
+    "home": "assets/ui/dialogs/icon-home-v1.svg",
+    "play": "assets/ui/dialogs/icon-play-v1.svg",
+    "retry": "assets/ui/dialogs/icon-retry-v1.svg",
+    "pause": "assets/ui/dialogs/icon-pause-v1.svg"
+  },
+  "iconSource": "Existing Phosphor fill icons; license assets/ui/PHOSPHOR-LICENSE.txt"
+}

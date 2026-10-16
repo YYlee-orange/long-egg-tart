@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="220" viewBox="0 0 280 220">
+<title>蛋挞蛇头：可编辑宽颈定稿，颈部128 / 头高160</title>
+<defs>
+  <path id="head-outline" d="M330 44 H240 C226 44 221 49 210 49 C190 49 181 44 164 41 C130 35 92 35 58 28 C49 28 43 31 39 38 C33 48 34 62 29 77 C25 90 20 98 17 105 C14 112 20 116 27 114 L48 108 Q54 106 57 114 L64 127 Q68 133 74 129 L101 114 Q106 111 110 118 L118 130 Q122 136 128 132 L146 122 Q153 118 155 127 L158 138 L158 149 Q157 152 153 146 L149 137 Q146 132 140 136 L125 145 Q119 149 114 143 L103 129 Q99 125 94 129 L68 145 Q62 149 58 142 L45 125 Q40 120 36 128 L22 169 Q18 182 30 188 C74 183 113 181 155 182 C178 181 190 182 205 178 C219 174 226 172 240 172 H330 Z"/>
+  <clipPath id="head-shape"><use href="#head-outline"/></clipPath>
+  <clipPath id="neck-cut"><rect x="0" y="0" width="262" height="220"/></clipPath>
+  <mask id="custard-only" maskUnits="userSpaceOnUse" x="0" y="0" width="330" height="220"><use href="#head-outline" fill="white" stroke="black" stroke-width="22" stroke-linejoin="round"/></mask>
+</defs>
+<g clip-path="url(#neck-cut)">
+  <g clip-path="url(#head-shape)">
+    <use href="#head-outline" fill="#F3D994" stroke="#DDB575" stroke-width="22" stroke-linejoin="round"/>
+    <use href="#head-outline" fill="none" stroke="#C38C55" stroke-width="12" stroke-linejoin="round"/>
+    <path fill="#DDB575" d="M164 41 C181 44 190 49 210 49 C221 49 226 44 240 44 H330 V66 H240 C226 66 221 71 210 71 C190 71 181 56 164 52 Z"/>
+    <path fill="#C38C55" d="M164 41 C181 44 190 49 210 49 C221 49 226 44 240 44 H330 V56 H240 C226 56 221 61 210 61 C190 61 181 51 164 47 Z"/>
+    <path fill="#DDB575" d="M155 182 C178 181 190 182 205 178 C219 174 226 172 240 172 H330 V150 H240 C226 150 219 152 205 156 C190 160 178 170 155 171 Z"/>
+    <path fill="#C38C55" d="M155 182 C178 181 190 182 205 178 C219 174 226 172 240 172 H330 V160 H240 C226 160 219 162 205 166 C190 170 178 176 155 176 Z"/>
+  </g>
+  <g mask="url(#custard-only)">
+    <path fill="#CE9C57" d="M78 62 C78 58 82 58 86 57 C90 55 95 57 95 62 C95 68 91 70 86 68 C82 67 78 67 78 62 Z"/>
+    <path fill="#CE9C57" d="M124 68 C122 64 128 62 132 60 Q136 59 138 64 L142 71 Q143 76 138 76 L128 72 Q125 72 124 68 Z"/>
+    <path fill="#CE9C57" d="M194 132 Q193 127 200 126 L207 124 Q213 124 211 130 L207 138 Q204 142 200 139 Z"/>
+  </g>
+  <circle cx="185" cy="83" r="5.8" fill="#765238"/>
+  <path d="M169 71 Q179 64 190 63" fill="none" stroke="#765238" stroke-width="6.2" stroke-linecap="round"/>
+</g>
+</svg>
+

@@ -1,0 +1,401 @@
+{
+  "version": 5,
+  "date": "2026-10-16",
+  "primaryAssets": [
+    {
+      "path": "assets/backgrounds/wood-table-soft-v4.png",
+      "width": 1920,
+      "height": 1080,
+      "alpha": false,
+      "format": "png",
+      "role": "full-screen background"
+    },
+    {
+      "path": "assets/food/custard-carton-approved-v6.png",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "format": "png",
+      "role": "food sprite"
+    },
+    {
+      "path": "assets/food/custard-carton-48-v6.png",
+      "width": 48,
+      "height": 48,
+      "alpha": true,
+      "format": "png",
+      "role": "food sprite"
+    },
+    {
+      "path": "assets/food/custard-carton-64-v6.png",
+      "width": 64,
+      "height": 64,
+      "alpha": true,
+      "format": "png",
+      "role": "food sprite"
+    },
+    {
+      "path": "assets/food/custard-carton-128-v6.png",
+      "width": 128,
+      "height": 128,
+      "alpha": true,
+      "format": "png",
+      "role": "food sprite"
+    },
+    {
+      "path": "assets/food/custard-carton-256-v6.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "food sprite"
+    },
+    {
+      "path": "assets/snake/decals-atlas-flat-v5.png",
+      "width": 1024,
+      "height": 1024,
+      "alpha": true,
+      "format": "png",
+      "role": "16-frame texture atlas"
+    },
+    {
+      "path": "assets/snake/decals/bake-01-v5.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "individual texture decal"
+    },
+    {
+      "path": "assets/snake/decals/bake-02-v5.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "individual texture decal"
+    },
+    {
+      "path": "assets/snake/decals/bake-03-v5.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "individual texture decal"
+    },
+    {
+      "path": "assets/snake/decals/bake-04-v5.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "individual texture decal"
+    },
+    {
+      "path": "assets/snake/decals/bake-05-v5.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "individual texture decal"
+    },
+    {
+      "path": "assets/snake/decals/bake-06-v5.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "individual texture decal"
+    },
+    {
+      "path": "assets/snake/decals/bake-07-v5.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "individual texture decal"
+    },
+    {
+      "path": "assets/snake/decals/bake-08-v5.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "individual texture decal"
+    },
+    {
+      "path": "assets/snake/decals/bake-09-v5.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "individual texture decal"
+    },
+    {
+      "path": "assets/snake/decals/bake-10-v5.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "individual texture decal"
+    },
+    {
+      "path": "assets/snake/decals/bake-11-v5.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "individual texture decal"
+    },
+    {
+      "path": "assets/snake/decals/bake-12-v5.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "individual texture decal"
+    },
+    {
+      "path": "assets/snake/decals/pastry-01-v5.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "individual texture decal"
+    },
+    {
+      "path": "assets/snake/decals/pastry-02-v5.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "individual texture decal"
+    },
+    {
+      "path": "assets/snake/decals/pastry-03-v5.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "individual texture decal"
+    },
+    {
+      "path": "assets/snake/decals/pastry-04-v5.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "individual texture decal"
+    },
+    {
+      "path": "assets/snake/head/tart-snake-head-left-v7.png",
+      "width": 1120,
+      "height": 880,
+      "alpha": true,
+      "format": "png",
+      "role": "independent cartoon snake head"
+    },
+    {
+      "path": "assets/snake/head/tart-snake-head-left-128-v7.png",
+      "width": 128,
+      "height": 128,
+      "alpha": true,
+      "format": "png",
+      "role": "independent cartoon snake head"
+    },
+    {
+      "path": "assets/snake/head/tart-snake-head-left-256-v7.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "independent cartoon snake head"
+    },
+    {
+      "path": "assets/snake/head/tart-snake-head-left-512-v7.png",
+      "width": 512,
+      "height": 512,
+      "alpha": true,
+      "format": "png",
+      "role": "independent cartoon snake head"
+    },
+    {
+      "path": "assets/snake/head/tart-snake-head-up-v7.png",
+      "width": 880,
+      "height": 1120,
+      "alpha": true,
+      "format": "png",
+      "role": "independent cartoon snake head"
+    },
+    {
+      "path": "assets/snake/head/tart-snake-head-up-128-v7.png",
+      "width": 128,
+      "height": 128,
+      "alpha": true,
+      "format": "png",
+      "role": "independent cartoon snake head"
+    },
+    {
+      "path": "assets/snake/head/tart-snake-head-up-256-v7.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "independent cartoon snake head"
+    },
+    {
+      "path": "assets/snake/head/tart-snake-head-up-512-v7.png",
+      "width": 512,
+      "height": 512,
+      "alpha": true,
+      "format": "png",
+      "role": "independent cartoon snake head"
+    },
+    {
+      "path": "assets/snake/head/tart-snake-head-right-v7.png",
+      "width": 1120,
+      "height": 880,
+      "alpha": true,
+      "format": "png",
+      "role": "independent cartoon snake head"
+    },
+    {
+      "path": "assets/snake/head/tart-snake-head-right-128-v7.png",
+      "width": 128,
+      "height": 128,
+      "alpha": true,
+      "format": "png",
+      "role": "independent cartoon snake head"
+    },
+    {
+      "path": "assets/snake/head/tart-snake-head-right-256-v7.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "independent cartoon snake head"
+    },
+    {
+      "path": "assets/snake/head/tart-snake-head-right-512-v7.png",
+      "width": 512,
+      "height": 512,
+      "alpha": true,
+      "format": "png",
+      "role": "independent cartoon snake head"
+    },
+    {
+      "path": "assets/snake/head/tart-snake-head-down-v7.png",
+      "width": 880,
+      "height": 1120,
+      "alpha": true,
+      "format": "png",
+      "role": "independent cartoon snake head"
+    },
+    {
+      "path": "assets/snake/head/tart-snake-head-down-128-v7.png",
+      "width": 128,
+      "height": 128,
+      "alpha": true,
+      "format": "png",
+      "role": "independent cartoon snake head"
+    },
+    {
+      "path": "assets/snake/head/tart-snake-head-down-256-v7.png",
+      "width": 256,
+      "height": 256,
+      "alpha": true,
+      "format": "png",
+      "role": "independent cartoon snake head"
+    },
+    {
+      "path": "assets/snake/head/tart-snake-head-down-512-v7.png",
+      "width": 512,
+      "height": 512,
+      "alpha": true,
+      "format": "png",
+      "role": "independent cartoon snake head"
+    }
+  ],
+  "supportingFiles": [
+    "assets/snake/source/decals-atlas-flat-v5.svg",
+    "assets/snake/decals/bake-01-v5.svg",
+    "assets/snake/decals/bake-02-v5.svg",
+    "assets/snake/decals/bake-03-v5.svg",
+    "assets/snake/decals/bake-04-v5.svg",
+    "assets/snake/decals/bake-05-v5.svg",
+    "assets/snake/decals/bake-06-v5.svg",
+    "assets/snake/decals/bake-07-v5.svg",
+    "assets/snake/decals/bake-08-v5.svg",
+    "assets/snake/decals/bake-09-v5.svg",
+    "assets/snake/decals/bake-10-v5.svg",
+    "assets/snake/decals/bake-11-v5.svg",
+    "assets/snake/decals/bake-12-v5.svg",
+    "assets/snake/decals/pastry-01-v5.svg",
+    "assets/snake/decals/pastry-02-v5.svg",
+    "assets/snake/decals/pastry-03-v5.svg",
+    "assets/snake/decals/pastry-04-v5.svg",
+    "assets/snake/geometry/straight-v2.svg",
+    "assets/snake/geometry/corner-ne-v2.svg",
+    "assets/snake/geometry/corner-se-v2.svg",
+    "assets/snake/geometry/corner-sw-v2.svg",
+    "assets/snake/geometry/corner-nw-v2.svg",
+    "assets/snake/geometry/cap-right-v2.svg",
+    "assets/snake/geometry/cap-left-v2.svg",
+    "assets/snake/decals-atlas-flat-v5.json",
+    "assets/snake/source/decal-shapes-v5.json",
+    "assets/snake/source/body-geometry-v2.mjs",
+    "assets/snake/source/material-layout-v2.json",
+    "assets/snake/geometry/geometry-fixtures-v2.json",
+    "previews/art-assets/material-state-fixtures-v2.json",
+    "previews/art-assets/image-prompts-v1-v3.md",
+    "assets/food/source/custard-carton-approved-v6.png",
+    "assets/backgrounds/source/wood-table-generated-v4.png",
+    "art-tools/export-art-v4.cjs",
+    "assets/README-art-assets-v4.md",
+    "previews/art-assets/verification-v4.json",
+    "previews/art-assets/image-prompt-background-v4.md",
+    "assets/snake/head/source/tart-snake-head-left-v7.svg",
+    "assets/snake/head/head-assets-v7.json",
+    "assets/snake/head/README-head-v7.md",
+    "art-tools/export-snake-head-v7.cjs",
+    "previews/art-assets/snake-head-verification-v7.json",
+    "previews/art-assets/snake-head-prompts-v7.md",
+    "assets/README-art-assets-v5.md"
+  ],
+  "previewFiles": [
+    "previews/art-assets/snake-head-preview-v7.png",
+    "previews/art-assets/snake-head-connection-v7.png",
+    "previews/art-assets/assets-overview-v4.png",
+    "previews/art-assets/composition-on-wood-v4.png",
+    "previews/art-assets/wood-color-comparison-v4.png",
+    "previews/art-assets/food-alpha-size-v4.png",
+    "previews/art-assets/geometry-continuity-v2.png",
+    "previews/art-assets/material-continuity-v2.png"
+  ],
+  "atlas": {
+    "metadata": "assets/snake/decals-atlas-flat-v5.json",
+    "frameSize": [
+      256,
+      256
+    ],
+    "layout": [
+      4,
+      4
+    ],
+    "bakeSpotFrames": 12,
+    "pastryLineFrames": 4
+  },
+  "archivedDrafts": "Previous sources, flat carton versions, backgrounds, manifests, previews and delivery v2 are retained. Current primaryAssets selects the approved carton v6 and slightly darker tabletop v4.",
+  "scope": "Art assets, editable sources and offline fixtures. No game logic, UI or transitions.",
+  "revision": {
+    "approvedCarton": "assets/food/source/custard-carton-approved-v6.png",
+    "foodVersion": 6,
+    "backgroundVersion": 4,
+    "snakeAssetsVersion": 5,
+    "policy": "The user selected the earlier rendered carton. Preserve its cap thickness, exact colors and soft within-panel shading. This selection supersedes the older food-only flat-paint restriction."
+  },
+  "currentHead": {
+    "version": 7,
+    "metadata": "assets/snake/head/head-assets-v7.json",
+    "neckToHeadHeight": 0.8
+  }
+}

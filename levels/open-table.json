@@ -1,0 +1,11 @@
+{
+  "id": "open-table",
+  "columns": 20,
+  "rows": 11,
+  "cellSize": 48,
+  "stepMs": 165,
+  "roundSeconds": 60,
+  "walls": [],
+  "spawn": { "x": 8, "y": 5, "direction": "right", "length": 8 },
+  "firstFood": { "x": 13, "y": 5 }
+}

@@ -1,0 +1,545 @@
+{
+  "frames": {
+    "bake-01": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "contentBounds": {
+        "x": 54,
+        "y": 78.009,
+        "width": 148,
+        "height": 99.982
+      },
+      "color": "#CE9C57",
+      "kind": "custard-bake-spot",
+      "file": "decals/bake-01-v5.png"
+    },
+    "bake-02": {
+      "frame": {
+        "x": 256,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "contentBounds": {
+        "x": 54,
+        "y": 74.855,
+        "width": 148,
+        "height": 106.29
+      },
+      "color": "#BE824A",
+      "kind": "custard-bake-spot",
+      "file": "decals/bake-02-v5.png"
+    },
+    "bake-03": {
+      "frame": {
+        "x": 512,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "contentBounds": {
+        "x": 83,
+        "y": 68,
+        "width": 90,
+        "height": 120
+      },
+      "color": "#D5AE68",
+      "kind": "custard-bake-spot",
+      "file": "decals/bake-03-v5.png"
+    },
+    "bake-04": {
+      "frame": {
+        "x": 768,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "contentBounds": {
+        "x": 54,
+        "y": 69.938,
+        "width": 148,
+        "height": 116.124
+      },
+      "color": "#CE9C57",
+      "kind": "custard-bake-spot",
+      "file": "decals/bake-04-v5.png"
+    },
+    "bake-05": {
+      "frame": {
+        "x": 0,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "contentBounds": {
+        "x": 54,
+        "y": 86.92,
+        "width": 148,
+        "height": 82.16
+      },
+      "color": "#D5AE68",
+      "kind": "custard-bake-spot",
+      "file": "decals/bake-05-v5.png"
+    },
+    "bake-06": {
+      "frame": {
+        "x": 256,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "contentBounds": {
+        "x": 61.094,
+        "y": 68,
+        "width": 133.812,
+        "height": 120
+      },
+      "color": "#BE824A",
+      "kind": "custard-bake-spot",
+      "file": "decals/bake-06-v5.png"
+    },
+    "bake-07": {
+      "frame": {
+        "x": 512,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "contentBounds": {
+        "x": 54,
+        "y": 76.269,
+        "width": 148,
+        "height": 103.462
+      },
+      "color": "#CE9C57",
+      "kind": "custard-bake-spot",
+      "file": "decals/bake-07-v5.png"
+    },
+    "bake-08": {
+      "frame": {
+        "x": 768,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "contentBounds": {
+        "x": 54,
+        "y": 97.429,
+        "width": 148,
+        "height": 61.142
+      },
+      "color": "#D5AE68",
+      "kind": "custard-bake-spot",
+      "file": "decals/bake-08-v5.png"
+    },
+    "bake-09": {
+      "frame": {
+        "x": 0,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "contentBounds": {
+        "x": 54,
+        "y": 97.262,
+        "width": 148,
+        "height": 61.476
+      },
+      "color": "#BE824A",
+      "kind": "custard-bake-spot",
+      "file": "decals/bake-09-v5.png"
+    },
+    "bake-10": {
+      "frame": {
+        "x": 256,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "contentBounds": {
+        "x": 54,
+        "y": 88.982,
+        "width": 148,
+        "height": 78.036
+      },
+      "color": "#D5AE68",
+      "kind": "custard-bake-spot",
+      "file": "decals/bake-10-v5.png"
+    },
+    "bake-11": {
+      "frame": {
+        "x": 512,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "contentBounds": {
+        "x": 59.22,
+        "y": 68,
+        "width": 137.56,
+        "height": 120
+      },
+      "color": "#CE9C57",
+      "kind": "custard-bake-spot",
+      "file": "decals/bake-11-v5.png"
+    },
+    "bake-12": {
+      "frame": {
+        "x": 768,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "contentBounds": {
+        "x": 54,
+        "y": 98.758,
+        "width": 148,
+        "height": 58.484
+      },
+      "color": "#CE9C57",
+      "kind": "custard-bake-spot",
+      "file": "decals/bake-12-v5.png"
+    },
+    "pastry-01": {
+      "frame": {
+        "x": 0,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "contentBounds": {
+        "x": 58.653,
+        "y": 101,
+        "width": 138.694,
+        "height": 54
+      },
+      "color": "#A97545",
+      "kind": "pastry-rim-line",
+      "file": "decals/pastry-01-v5.png"
+    },
+    "pastry-02": {
+      "frame": {
+        "x": 256,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "contentBounds": {
+        "x": 57.8,
+        "y": 101,
+        "width": 140.4,
+        "height": 54
+      },
+      "color": "#A97545",
+      "kind": "pastry-rim-line",
+      "file": "decals/pastry-02-v5.png"
+    },
+    "pastry-03": {
+      "frame": {
+        "x": 512,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "contentBounds": {
+        "x": 63.909,
+        "y": 101,
+        "width": 128.182,
+        "height": 54
+      },
+      "color": "#A97545",
+      "kind": "pastry-rim-line",
+      "file": "decals/pastry-03-v5.png"
+    },
+    "pastry-04": {
+      "frame": {
+        "x": 768,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 256
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "contentBounds": {
+        "x": 50,
+        "y": 102.755,
+        "width": 156,
+        "height": 50.49
+      },
+      "color": "#A97545",
+      "kind": "pastry-rim-line",
+      "file": "decals/pastry-04-v5.png"
+    }
+  },
+  "meta": {
+    "image": "decals-atlas-flat-v5.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1024,
+      "h": 1024
+    },
+    "scale": "1",
+    "coordinates": "top-left pixel, untrimmed 256-square frames",
+    "padding": "all motifs centered with at least 50px transparent margin per frame",
+    "sampler": "linear or nearest; clamp-to-edge; keep transparent RGB zero; no JPEG",
+    "version": 5
+  }
+}

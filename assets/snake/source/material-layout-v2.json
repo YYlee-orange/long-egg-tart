@@ -1,0 +1,797 @@
+{
+  "seed": 20261016,
+  "width": 64,
+  "coordinate": "m is permanent material distance behind the head; growth reveals larger m at the tail",
+  "records": [
+    {
+      "id": "bake-0",
+      "kind": "bake",
+      "variant": 2,
+      "m": 23.04,
+      "lateral": -1.4758,
+      "length": 17.0794,
+      "breadth": 12.3472,
+      "angle": -0.1848
+    },
+    {
+      "id": "bake-1",
+      "kind": "bake",
+      "variant": 5,
+      "m": 78.4041,
+      "lateral": -4.0081,
+      "length": 16.5207,
+      "breadth": 9.3858,
+      "angle": -0.0621
+    },
+    {
+      "id": "bake-2",
+      "kind": "bake",
+      "variant": 3,
+      "m": 126.5173,
+      "lateral": 1.1183,
+      "length": 14.2708,
+      "breadth": 13.7437,
+      "angle": -0.0583
+    },
+    {
+      "id": "bake-3",
+      "kind": "bake",
+      "variant": 8,
+      "m": 178.6788,
+      "lateral": -6.5382,
+      "length": 20.5681,
+      "breadth": 11.8985,
+      "angle": 0.1213
+    },
+    {
+      "id": "bake-4",
+      "kind": "bake",
+      "variant": 0,
+      "m": 225.6569,
+      "lateral": 4.9794,
+      "length": 18.4222,
+      "breadth": 10.7943,
+      "angle": 0.2319
+    },
+    {
+      "id": "bake-5",
+      "kind": "bake",
+      "variant": 10,
+      "m": 280.9282,
+      "lateral": 0.3007,
+      "length": 17.2127,
+      "breadth": 12.2491,
+      "angle": 0.0989
+    },
+    {
+      "id": "bake-6",
+      "kind": "bake",
+      "variant": 5,
+      "m": 328.3351,
+      "lateral": 4.6191,
+      "length": 18.7722,
+      "breadth": 10.2182,
+      "angle": 0.1789
+    },
+    {
+      "id": "bake-7",
+      "kind": "bake",
+      "variant": 7,
+      "m": 389.2562,
+      "lateral": 0.1024,
+      "length": 15.5271,
+      "breadth": 13.7616,
+      "angle": 0.2551
+    },
+    {
+      "id": "bake-8",
+      "kind": "bake",
+      "variant": 0,
+      "m": 437.1741,
+      "lateral": 4.1542,
+      "length": 16.3761,
+      "breadth": 8.7133,
+      "angle": -0.2528
+    },
+    {
+      "id": "bake-9",
+      "kind": "bake",
+      "variant": 6,
+      "m": 488.6652,
+      "lateral": 1.6767,
+      "length": 20.3775,
+      "breadth": 10.3144,
+      "angle": 0.0841
+    },
+    {
+      "id": "bake-10",
+      "kind": "bake",
+      "variant": 10,
+      "m": 533.0801,
+      "lateral": -5.1805,
+      "length": 14.6912,
+      "breadth": 12.9952,
+      "angle": -0.034
+    },
+    {
+      "id": "bake-11",
+      "kind": "bake",
+      "variant": 5,
+      "m": 585.847,
+      "lateral": -2.8381,
+      "length": 18.1666,
+      "breadth": 13.2809,
+      "angle": 0.1423
+    },
+    {
+      "id": "bake-12",
+      "kind": "bake",
+      "variant": 7,
+      "m": 642.3772,
+      "lateral": -1.3237,
+      "length": 16.6123,
+      "breadth": 9.8087,
+      "angle": 0.2308
+    },
+    {
+      "id": "bake-13",
+      "kind": "bake",
+      "variant": 10,
+      "m": 700.2805,
+      "lateral": -1.2599,
+      "length": 13.0533,
+      "breadth": 11.5932,
+      "angle": -0.2338
+    },
+    {
+      "id": "bake-14",
+      "kind": "bake",
+      "variant": 9,
+      "m": 762.4621,
+      "lateral": 5.1515,
+      "length": 15.9299,
+      "breadth": 10.2158,
+      "angle": -0.0932
+    },
+    {
+      "id": "bake-15",
+      "kind": "bake",
+      "variant": 3,
+      "m": 825.1348,
+      "lateral": -1.9924,
+      "length": 18.6451,
+      "breadth": 13.1345,
+      "angle": 0.1327
+    },
+    {
+      "id": "bake-16",
+      "kind": "bake",
+      "variant": 4,
+      "m": 885.0774,
+      "lateral": -7.2649,
+      "length": 17.0745,
+      "breadth": 10.1734,
+      "angle": 0.1152
+    },
+    {
+      "id": "bake-17",
+      "kind": "bake",
+      "variant": 5,
+      "m": 944.1324,
+      "lateral": 3.7772,
+      "length": 16.6063,
+      "breadth": 13.09,
+      "angle": -0.0054
+    },
+    {
+      "id": "bake-18",
+      "kind": "bake",
+      "variant": 9,
+      "m": 998.801,
+      "lateral": 4.02,
+      "length": 17.6004,
+      "breadth": 9.4565,
+      "angle": 0.191
+    },
+    {
+      "id": "bake-19",
+      "kind": "bake",
+      "variant": 4,
+      "m": 1059.4087,
+      "lateral": -3.0439,
+      "length": 16.1479,
+      "breadth": 9.2517,
+      "angle": -0.0361
+    },
+    {
+      "id": "bake-20",
+      "kind": "bake",
+      "variant": 2,
+      "m": 1113.306,
+      "lateral": -6.7085,
+      "length": 20.2482,
+      "breadth": 10.0937,
+      "angle": -0.1773
+    },
+    {
+      "id": "bake-21",
+      "kind": "bake",
+      "variant": 7,
+      "m": 1161.1855,
+      "lateral": 6.5318,
+      "length": 17.0422,
+      "breadth": 11.3842,
+      "angle": -0.1491
+    },
+    {
+      "id": "bake-22",
+      "kind": "bake",
+      "variant": 0,
+      "m": 1209.3201,
+      "lateral": 1.1795,
+      "length": 12.6108,
+      "breadth": 13.5756,
+      "angle": 0.1376
+    },
+    {
+      "id": "bake-23",
+      "kind": "bake",
+      "variant": 3,
+      "m": 1256.7808,
+      "lateral": 3.7522,
+      "length": 14.6479,
+      "breadth": 11.9631,
+      "angle": -0.1635
+    },
+    {
+      "id": "bake-24",
+      "kind": "bake",
+      "variant": 8,
+      "m": 1314.4458,
+      "lateral": 6.6674,
+      "length": 15.5096,
+      "breadth": 14.005,
+      "angle": 0.0213
+    },
+    {
+      "id": "bake-25",
+      "kind": "bake",
+      "variant": 7,
+      "m": 1359.1692,
+      "lateral": -3.3641,
+      "length": 19.2646,
+      "breadth": 8.5266,
+      "angle": 0.206
+    },
+    {
+      "id": "bake-26",
+      "kind": "bake",
+      "variant": 0,
+      "m": 1407.961,
+      "lateral": -1.5093,
+      "length": 17.9491,
+      "breadth": 9.2683,
+      "angle": -0.2432
+    },
+    {
+      "id": "bake-27",
+      "kind": "bake",
+      "variant": 3,
+      "m": 1470.3973,
+      "lateral": -0.6191,
+      "length": 18.2647,
+      "breadth": 10.4969,
+      "angle": 0.1916
+    },
+    {
+      "id": "bake-28",
+      "kind": "bake",
+      "variant": 8,
+      "m": 1528.8895,
+      "lateral": -5.0839,
+      "length": 20.2315,
+      "breadth": 9.5402,
+      "angle": -0.1146
+    },
+    {
+      "id": "bake-29",
+      "kind": "bake",
+      "variant": 2,
+      "m": 1591.3356,
+      "lateral": -0.2732,
+      "length": 12.2414,
+      "breadth": 8.5896,
+      "angle": 0.0868
+    },
+    {
+      "id": "bake-30",
+      "kind": "bake",
+      "variant": 1,
+      "m": 1647.8506,
+      "lateral": -1.2564,
+      "length": 16.1282,
+      "breadth": 10.6242,
+      "angle": 0.0063
+    },
+    {
+      "id": "bake-31",
+      "kind": "bake",
+      "variant": 0,
+      "m": 1705.176,
+      "lateral": 6.4258,
+      "length": 13.4407,
+      "breadth": 13.2807,
+      "angle": -0.1396
+    },
+    {
+      "id": "bake-32",
+      "kind": "bake",
+      "variant": 4,
+      "m": 1748.8225,
+      "lateral": 1.9051,
+      "length": 18.3811,
+      "breadth": 13.833,
+      "angle": 0.0051
+    },
+    {
+      "id": "bake-33",
+      "kind": "bake",
+      "variant": 1,
+      "m": 1811.2598,
+      "lateral": -6.4741,
+      "length": 21.0989,
+      "breadth": 11.8856,
+      "angle": -0.2452
+    },
+    {
+      "id": "bake-34",
+      "kind": "bake",
+      "variant": 9,
+      "m": 1865.3577,
+      "lateral": -7.1295,
+      "length": 12.2868,
+      "breadth": 8.9078,
+      "angle": -0.2267
+    },
+    {
+      "id": "bake-35",
+      "kind": "bake",
+      "variant": 6,
+      "m": 1912.2021,
+      "lateral": -6.4783,
+      "length": 12.9184,
+      "breadth": 12.3608,
+      "angle": 0.0505
+    },
+    {
+      "id": "bake-36",
+      "kind": "bake",
+      "variant": 5,
+      "m": 1974.539,
+      "lateral": -2.2964,
+      "length": 16.8366,
+      "breadth": 9.864,
+      "angle": -0.0287
+    },
+    {
+      "id": "bake-37",
+      "kind": "bake",
+      "variant": 11,
+      "m": 2033.1769,
+      "lateral": 1.7245,
+      "length": 14.1019,
+      "breadth": 8.9632,
+      "angle": 0.0177
+    },
+    {
+      "id": "bake-38",
+      "kind": "bake",
+      "variant": 4,
+      "m": 2081.2487,
+      "lateral": -0.7361,
+      "length": 17.1057,
+      "breadth": 13.6929,
+      "angle": -0.085
+    },
+    {
+      "id": "bake-39",
+      "kind": "bake",
+      "variant": 6,
+      "m": 2137.8926,
+      "lateral": -3.8547,
+      "length": 12.7563,
+      "breadth": 12.6867,
+      "angle": 0.2523
+    },
+    {
+      "id": "bake-40",
+      "kind": "bake",
+      "variant": 3,
+      "m": 2199.3957,
+      "lateral": 1.5116,
+      "length": 13.5028,
+      "breadth": 12.1638,
+      "angle": -0.2091
+    },
+    {
+      "id": "bake-41",
+      "kind": "bake",
+      "variant": 5,
+      "m": 2250.9164,
+      "lateral": -3.937,
+      "length": 17.6584,
+      "breadth": 12.2945,
+      "angle": 0.1687
+    },
+    {
+      "id": "bake-42",
+      "kind": "bake",
+      "variant": 6,
+      "m": 2295.5539,
+      "lateral": 7.176,
+      "length": 15.9337,
+      "breadth": 13.161,
+      "angle": -0.1872
+    },
+    {
+      "id": "bake-43",
+      "kind": "bake",
+      "variant": 2,
+      "m": 2343.1648,
+      "lateral": 6.5789,
+      "length": 14.0769,
+      "breadth": 11.5808,
+      "angle": -0.0191
+    },
+    {
+      "id": "bake-44",
+      "kind": "bake",
+      "variant": 4,
+      "m": 2397.827,
+      "lateral": 1.2603,
+      "length": 12.2653,
+      "breadth": 8.8119,
+      "angle": -0.0019
+    },
+    {
+      "id": "bake-45",
+      "kind": "bake",
+      "variant": 1,
+      "m": 2453.9375,
+      "lateral": 2.6094,
+      "length": 18.1805,
+      "breadth": 11.1005,
+      "angle": 0.0592
+    },
+    {
+      "id": "bake-46",
+      "kind": "bake",
+      "variant": 9,
+      "m": 2501.4868,
+      "lateral": -6.3845,
+      "length": 17.1382,
+      "breadth": 8.453,
+      "angle": -0.1649
+    },
+    {
+      "id": "bake-47",
+      "kind": "bake",
+      "variant": 8,
+      "m": 2559.1655,
+      "lateral": 4.3242,
+      "length": 14.2945,
+      "breadth": 11.0803,
+      "angle": -0.1034
+    },
+    {
+      "id": "bake-48",
+      "kind": "bake",
+      "variant": 10,
+      "m": 2614.2196,
+      "lateral": -3.1827,
+      "length": 20.2805,
+      "breadth": 10.3376,
+      "angle": 0.1977
+    },
+    {
+      "id": "bake-49",
+      "kind": "bake",
+      "variant": 3,
+      "m": 2673.2757,
+      "lateral": 5.5963,
+      "length": 14.6962,
+      "breadth": 8.4078,
+      "angle": -0.2507
+    },
+    {
+      "id": "bake-50",
+      "kind": "bake",
+      "variant": 4,
+      "m": 2723.5348,
+      "lateral": 4.5191,
+      "length": 12.5161,
+      "breadth": 13.7605,
+      "angle": -0.18
+    },
+    {
+      "id": "bake-51",
+      "kind": "bake",
+      "variant": 1,
+      "m": 2775.1128,
+      "lateral": -0.7044,
+      "length": 13.088,
+      "breadth": 10.1628,
+      "angle": -0.034
+    },
+    {
+      "id": "bake-52",
+      "kind": "bake",
+      "variant": 9,
+      "m": 2823.2992,
+      "lateral": 0.4182,
+      "length": 14.008,
+      "breadth": 10.7838,
+      "angle": 0.2454
+    },
+    {
+      "id": "bake-53",
+      "kind": "bake",
+      "variant": 3,
+      "m": 2879.6814,
+      "lateral": -7.261,
+      "length": 18.192,
+      "breadth": 12.4087,
+      "angle": 0.1497
+    },
+    {
+      "id": "bake-54",
+      "kind": "bake",
+      "variant": 10,
+      "m": 2939.9518,
+      "lateral": -3.3702,
+      "length": 19.3667,
+      "breadth": 9.9503,
+      "angle": 0.0334
+    },
+    {
+      "id": "bake-55",
+      "kind": "bake",
+      "variant": 8,
+      "m": 3001.4441,
+      "lateral": -7.2803,
+      "length": 14.846,
+      "breadth": 11.3494,
+      "angle": 0.0515
+    },
+    {
+      "id": "bake-56",
+      "kind": "bake",
+      "variant": 2,
+      "m": 3053.131,
+      "lateral": -5.6574,
+      "length": 14.9509,
+      "breadth": 12.146,
+      "angle": -0.2312
+    },
+    {
+      "id": "bake-57",
+      "kind": "bake",
+      "variant": 9,
+      "m": 3097.6701,
+      "lateral": -0.3541,
+      "length": 17.851,
+      "breadth": 13.4453,
+      "angle": -0.2216
+    },
+    {
+      "id": "bake-58",
+      "kind": "bake",
+      "variant": 3,
+      "m": 3154.3992,
+      "lateral": -6.0472,
+      "length": 18.748,
+      "breadth": 11.4877,
+      "angle": -0.172
+    },
+    {
+      "id": "bake-59",
+      "kind": "bake",
+      "variant": 2,
+      "m": 3206.9117,
+      "lateral": 1.2546,
+      "length": 14.4154,
+      "breadth": 12.6936,
+      "angle": 0.1413
+    },
+    {
+      "id": "pastry-0",
+      "kind": "pastry",
+      "variant": 12,
+      "m": 58.88,
+      "lateral": -28.864,
+      "length": 24.0734,
+      "breadth": 4.48,
+      "angle": 0
+    },
+    {
+      "id": "pastry-1",
+      "kind": "pastry",
+      "variant": 13,
+      "m": 259.2435,
+      "lateral": 28.864,
+      "length": 22.4363,
+      "breadth": 4.48,
+      "angle": 0
+    },
+    {
+      "id": "pastry-2",
+      "kind": "pastry",
+      "variant": 14,
+      "m": 439.5985,
+      "lateral": -28.864,
+      "length": 21.1562,
+      "breadth": 4.48,
+      "angle": 0
+    },
+    {
+      "id": "pastry-3",
+      "kind": "pastry",
+      "variant": 15,
+      "m": 604.3074,
+      "lateral": 28.864,
+      "length": 20.3698,
+      "breadth": 4.48,
+      "angle": 0
+    },
+    {
+      "id": "pastry-4",
+      "kind": "pastry",
+      "variant": 12,
+      "m": 759.4054,
+      "lateral": -28.864,
+      "length": 23.4287,
+      "breadth": 4.48,
+      "angle": 0
+    },
+    {
+      "id": "pastry-5",
+      "kind": "pastry",
+      "variant": 13,
+      "m": 951.8896,
+      "lateral": 28.864,
+      "length": 22.7107,
+      "breadth": 4.48,
+      "angle": 0
+    },
+    {
+      "id": "pastry-6",
+      "kind": "pastry",
+      "variant": 14,
+      "m": 1135.5987,
+      "lateral": -28.864,
+      "length": 19.3236,
+      "breadth": 4.48,
+      "angle": 0
+    },
+    {
+      "id": "pastry-7",
+      "kind": "pastry",
+      "variant": 15,
+      "m": 1277.9095,
+      "lateral": 28.864,
+      "length": 21.2384,
+      "breadth": 4.48,
+      "angle": 0
+    },
+    {
+      "id": "pastry-8",
+      "kind": "pastry",
+      "variant": 12,
+      "m": 1443.6235,
+      "lateral": -28.864,
+      "length": 24.1221,
+      "breadth": 4.48,
+      "angle": 0
+    },
+    {
+      "id": "pastry-9",
+      "kind": "pastry",
+      "variant": 13,
+      "m": 1644.5825,
+      "lateral": 28.864,
+      "length": 19.6021,
+      "breadth": 4.48,
+      "angle": 0
+    },
+    {
+      "id": "pastry-10",
+      "kind": "pastry",
+      "variant": 14,
+      "m": 1790.2974,
+      "lateral": -28.864,
+      "length": 24.4967,
+      "breadth": 4.48,
+      "angle": 0
+    },
+    {
+      "id": "pastry-11",
+      "kind": "pastry",
+      "variant": 15,
+      "m": 1995.8346,
+      "lateral": 28.864,
+      "length": 19.7939,
+      "breadth": 4.48,
+      "angle": 0
+    },
+    {
+      "id": "pastry-12",
+      "kind": "pastry",
+      "variant": 12,
+      "m": 2143.8934,
+      "lateral": -28.864,
+      "length": 22.6855,
+      "breadth": 4.48,
+      "angle": 0
+    },
+    {
+      "id": "pastry-13",
+      "kind": "pastry",
+      "variant": 13,
+      "m": 2327.2943,
+      "lateral": 28.864,
+      "length": 23.3301,
+      "breadth": 4.48,
+      "angle": 0
+    },
+    {
+      "id": "pastry-14",
+      "kind": "pastry",
+      "variant": 14,
+      "m": 2518.5736,
+      "lateral": -28.864,
+      "length": 20.2424,
+      "breadth": 4.48,
+      "angle": 0
+    },
+    {
+      "id": "pastry-15",
+      "kind": "pastry",
+      "variant": 15,
+      "m": 2672.1142,
+      "lateral": 28.864,
+      "length": 19.4184,
+      "breadth": 4.48,
+      "angle": 0
+    },
+    {
+      "id": "pastry-16",
+      "kind": "pastry",
+      "variant": 12,
+      "m": 2815.5839,
+      "lateral": -28.864,
+      "length": 21.1159,
+      "breadth": 4.48,
+      "angle": 0
+    },
+    {
+      "id": "pastry-17",
+      "kind": "pastry",
+      "variant": 13,
+      "m": 2979.8009,
+      "lateral": 28.864,
+      "length": 24.405,
+      "breadth": 4.48,
+      "angle": 0
+    },
+    {
+      "id": "pastry-18",
+      "kind": "pastry",
+      "variant": 14,
+      "m": 3184.2173,
+      "lateral": -28.864,
+      "length": 21.2518,
+      "breadth": 4.48,
+      "angle": 0
+    }
+  ]
+}
